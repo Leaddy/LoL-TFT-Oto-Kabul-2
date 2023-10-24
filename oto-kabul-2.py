@@ -127,7 +127,7 @@ class EkranIzlemeUygulamasi:
         pyautogui.click(x, y)
 
     def ac_leaddy_link(self, event):
-        webbrowser.open("https://linktr.ee/leaddy")
+        webbrowser.open("https://heylink.me/leaddy")
 
 if __name__ == "__main__":
     root = tk.Tk()
