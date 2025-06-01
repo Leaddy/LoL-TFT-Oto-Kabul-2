@@ -5,7 +5,7 @@ verdiğim .py dosyasını .exe yapıp size verdiğim 3 dosyayıda bir klasörün
 
 Make the .py file I gave you as an .exe and run the .exe with the 3 files I gave you in a folder, that's all.
 
-Programın İndirme Linki (Download Link) : https://ay.live/loltft
+Programın İndirme Linki (Download Link) : https://ay.live/loloto
 
 https://www.youtube.com/watch?v=CjZauky9IZY
 
